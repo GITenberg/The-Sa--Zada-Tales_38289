@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '2970'
     url: http://www.gutenberg.org/2009/agents/2970
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38289#The-Sa--Zada-Tales
 gutenberg_issued: '2011-12-13'
 gutenberg_type: Text
 identifiers:
